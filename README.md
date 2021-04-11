@@ -1,0 +1,2 @@
+# docs
+Info about project
